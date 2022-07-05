@@ -567,7 +567,6 @@ h3.heading-section:before {
 }
 
 .work-wrap-bg {
-  padding-top: 3em;
   background: rgba(0, 0, 0, 0.03);
 }
 
@@ -578,6 +577,7 @@ h3.heading-section:before {
   display: table;
   position: relative;
   margin-bottom: 0;
+  padding-top: 3em;
 }
 .work-wrap .fh5co-project-inner {
   display: table-cell;
